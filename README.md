@@ -7,7 +7,7 @@ The aim of this tutorial is to demonstrate the required steps for implementing c
 ### Pre requirements
 
 - Existing Cluster 
-- kubectl
+- kubectl [Installation](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 - helm3 [Installation](https://helm.sh/docs/intro/install/)
 
 ### Step 01
