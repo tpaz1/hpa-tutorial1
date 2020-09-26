@@ -22,7 +22,7 @@ The aim of this tutorial is to demonstrate the required steps for implementing c
 ### Step 02
     
 - In this step we are going to install prometheus and configure custom metrics.
-- Install prometheus
+- Install [prometheus](./install.sh)
 - configure HPA metrics
 - Test the scale
 
