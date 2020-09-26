@@ -15,9 +15,9 @@ The aim of this tutorial is to demonstrate the required steps for implementing c
 - Create deployment and autoscale by number of request in the last 30 seconds
   Write yourself the yaml files (practice) - 
    - [Namespace](./k8s/01-namespace.yaml)
-   - Deployment
-   - Service
-   - HPA
+   - [Deployment](./k8s/02-deployment)
+   - [Service](./k8s/03-service)
+   - [HPA](./k8s/04-hpa)
 
 ### Step 02
     
